@@ -1,1 +1,1 @@
-# gomoku
+# Using dub, D's standard package manager, you can play gomoku with an AI. First you have to run the server, then the client, in two separate console windows. This will allow you to input commands as a client to make turns and view your AI opponent's turns.
